@@ -132,12 +132,12 @@ Certainly! Here's your requested experience rewritten in the clean, professional
 
 ## **Projects**
 
-### **AKQbridge** *(Jan 2013 – Present)*  
+### **AKQbridge** *(Jan 2013 – 2014)*  
 Online bridge card game platform with real-time multiplayer, AI opponents, and tournament system.  
 - **Tech Stack**: React, Node.js, Socket.IO, MongoDB  
 - Led full-stack development, including game logic engine and responsive UI.
 
-### **EDPM DQF – Driver Qualification File System** *(Nov 2012 – Present)*  
+### **EDPM DQF – Driver Qualification File System** *(Nov 2012 – 2013)*  
 Document management system for DOT compliance.  
 - **Tech Stack**: .NET (legacy), React (migration), PostgreSQL, AWS  
 - Currently leading migration from monolithic .NET to a modern **React + Node.js microservices architecture**.
