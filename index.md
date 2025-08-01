@@ -89,6 +89,45 @@ A recognized leader in **ZKML (Zero-Knowledge Machine Learning), decentralized a
 
 **Key Technologies**: React, TypeScript, Node.js, PostgreSQL, Stripe, Web3.js
 
+Certainly! Here's your requested experience rewritten in the clean, professional format you provided:
+
+---
+
+### **CTO | Head of R&D**  
+**Paralect** — *Minsk, Belarus*  
+*2011 – Aug 2017*
+
+- Led product development and R&D for enterprise clients across healthcare, logistics, and fintech.
+- Architected and delivered **full-stack SaaS platforms** using **.NET, Node.js, and React**, ensuring high scalability and performance.
+- Introduced **CQRS, Event Sourcing, and Domain-Driven Design (DDD)** to enhance system modularity, auditability, and long-term maintainability.
+- Built internal developer tools for **code generation, CI/CD automation, and performance monitoring**, accelerating delivery across engineering teams.
+
+**Key Technologies**: .NET, Node.js, React, CQRS, Event Sourcing, SQL Server, AWS
+
+---
+
+### **Software Architect**  
+**Suvoda** — *Remote*  
+*Nov 2013 – Nov 2015*
+
+- Designed and implemented a secure, **HIPAA-compliant eConsent platform** for clinical trials.
+- Developed a **full-stack .NET application** featuring document management, cryptographic e-signatures, and comprehensive audit trails.
+- Optimized **database performance and security** for handling sensitive medical data, ensuring compliance with regulatory standards.
+
+**Key Technologies**: .NET, C#, SQL Server, ASP.NET MVC, HTML/CSS, JavaScript
+
+---
+
+### **Software Developer**  
+**Itransition Group** — *Minsk, Belarus*  
+*Nov 2010 – Dec 2011*
+
+- Developed enterprise web applications using **.NET and ASP.NET** for clients in finance and logistics.
+- Contributed to **backend services, database design, and UI components**, delivering end-to-end features.
+- Gained foundational experience in **full-stack development** and the complete software development lifecycle.
+
+**Key Technologies**: .NET, C#, SQL Server, JavaScript
+
 ---
 
 ## **Projects**
