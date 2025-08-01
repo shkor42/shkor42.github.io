@@ -152,19 +152,6 @@ Document management system for DOT compliance.
 
 ---
 
-## **Skills & Endorsements**
-
-| **Full Stack**       | React, Next.js, Node.js, Express, TypeScript, REST, GraphQL, HTML/CSS |
-| **Blockchain**        | Solidity, Smart Contracts, Web3.js, Ethers.js, Hardhat, DEIP Protocol |
-| **AI & ZKML**         | Machine Learning, zk-SNARKs, Model Verification, TensorFlow.js        |
-| **Architecture**      | CQRS, Event Sourcing, Microservices, DDD, Serverless                  |
-| **DevOps & Cloud**    | AWS, Docker, Kubernetes, GitHub Actions, Terraform                    |
-| **Databases**         | PostgreSQL, MongoDB, Redis, Elasticsearch                           |
-
-**LinkedIn Endorsements**: 50+ for CQRS, Blockchain, Full-Stack Development, AI, and Distributed Systems
-
----
-
 ## **Recommendations**
 
 > *"Alex is a truly inspiring leader... fascinated by his capability to learn incredibly fast and communicate his reality in comprehensive models."*  
