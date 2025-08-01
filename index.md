@@ -155,7 +155,6 @@ Document management system for DOT compliance.
 ## **Skills & Endorsements**
 
 | **Full Stack**       | React, Next.js, Node.js, Express, TypeScript, REST, GraphQL, HTML/CSS |
-|----------------------|----------------------------------------------------------------------|
 | **Blockchain**        | Solidity, Smart Contracts, Web3.js, Ethers.js, Hardhat, DEIP Protocol |
 | **AI & ZKML**         | Machine Learning, zk-SNARKs, Model Verification, TensorFlow.js        |
 | **Architecture**      | CQRS, Event Sourcing, Microservices, DDD, Serverless                  |
