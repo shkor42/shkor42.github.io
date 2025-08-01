@@ -137,11 +137,109 @@ Document management system for DOT compliance.
 
 ---
 
-## **Conferences & Speaking**
+## **Conferences & Speaking*
 
-- Speaker, **Web3 Summit** (Berlin) – “ZKML for Trustless AI in Venture Capital”
-- Panelist, **Decentralized AI Conference** – “Privacy-Preserving Machine Learning on Blockchain”
-- Guest Lecturer, **Technical University of Lisbon** – “Full-Stack Development in the Web3 Era”
+---
+
+### 🔗 [A Metaprotocol for Blockchain Interoperability? w/ Alex Shkor of Collective Intelligence Labs](https://www.youtube.com/watch?v=0MUDtpeR4y8)  
+**Topic:** Blockchain Interoperability & Meta Protocols  
+Alex introduces the concept of a **meta-protocol** — a foundational layer enabling secure communication across blockchains. He dives into challenges of cross-chain validation and how omnichain systems can unify fragmented blockchain ecosystems.
+
+---
+
+### 🔗 [Alex Shkor (deip.world) - Blockchain For Funding Science - #BFSCON - Blockchain for Science](https://www.youtube.com/watch?v=MFLaAGzZpKQ)  
+**Topic:** Blockchain-Powered Scientific Funding  
+Alex presents **DEIP** as a solution to reform science funding. Using blockchain, researchers can receive transparent, decentralized grants, bypassing traditional gatekeepers and enabling global collaboration.
+
+---
+
+### 🔗 [Crypto-economy for Science: Automated Grants Distribution Models | Alex Shkor](https://www.youtube.com/watch?v=VBAKCEfW7H8)  
+**Topic:** Automating Scientific Grants  
+This talk explores how **algorithmic funding models** and tokenized reputation systems can automate grant distribution in science, rewarding impact and innovation — not just credentials.
+
+---
+
+### 🔗 [Alex Shkor, CEO of DEIP, F-NFTs & Fractionalizing Real World Assets | Blockchain Interviews](https://www.youtube.com/watch?v=TFJ6v2J9N5E)  
+**Topic:** F-NFTs & Tokenizing Real-World Value  
+Alex explains **Fractional NFTs (F-NFTs)** — a way to tokenize and fractionalize real-world assets like patents, research, and IP. He shows how DEIP unlocks liquidity for intangible assets.
+
+---
+
+### 🔗 [Future of Science, Alex Shkor at the Future Blockchain Summit in Dubai](https://www.youtube.com/watch?v=RjUSOBtwEaQ)  
+**Topic:** The Future of Science in a Decentralized World  
+At this high-profile summit, Alex envisions a **decentralized scientific ecosystem** where peer review, funding, and publishing are transparent, community-driven, and borderless.
+
+---
+
+### 🔗 [Empowering Web3 with Omni-Chain Meta Protocol with Alex Shkor @ CIL | Web2+1 with VC](https://www.youtube.com/watch?v=WIaeM6Gy26c)  
+**Topic:** Omni-Chain Meta Protocol  
+Alex dives deep into **CIL’s omnichain meta-protocol**, explaining how it enables secure cross-chain communication, state validation, and unified smart contract execution across heterogeneous blockchains.
+
+---
+
+### 🔗 [Vivi Lin Interviews ALEX SHKOR, Founder of DEIP Creator Economy Protocol (WEB3 DEMYSTIFIED SERIES)](https://www.youtube.com/watch?v=eL-vdvEXRIo)  
+**Topic:** Demystifying Web3 for Creators  
+In this insightful interview, Alex breaks down Web3 jargon and explains how **DEIP empowers creators** — from scientists to artists — to own, monetize, and govern their work.
+
+---
+
+### 🔗 [Omnichain Contracts: Validating Blockchain States and Deploying Smart Contracts Innovatively](https://www.youtube.com/watch?v=tdQE-2XquE0)  
+**Topic:** Next-Gen Smart Contracts  
+A technical deep dive into **omnichain contracts** — smart contracts that can validate states across multiple chains and trigger actions in a trustless, decentralized way.
+
+---
+
+### 🔗 [Building the Pipes for Creator Rights in Web3 w/ DEIP Co-creator Alex Shkor | Next Creators Podcast](https://www.youtube.com/watch?v=2nT9SNoenTo)  
+**Topic:** Infrastructure for Creator Ownership  
+Alex discusses the need for **"plumbing" in Web3** — the underlying protocols that protect creator rights, enable fair royalties, and ensure value flows directly to innovators.
+
+---
+
+### 🔗 [Proof of Concept with Ethereum. Solidity Workshop | Alex Shkor (live stream)](https://www.youtube.com/watch?v=k8hWLHqlQbs)  
+**Topic:** Hands-On Solidity Development  
+A live coding session where Alex builds a **proof-of-concept smart contract** on Ethereum using Solidity. Ideal for developers exploring blockchain fundamentals.
+
+---
+
+### 🔗 [Alex Shkor - DEIP - Decentralized Research Platform - HackNShare Berlin 2017](https://www.youtube.com/watch?v=tsaCGxajpDw)  
+**Topic:** The Birth of DEIP  
+One of Alex’s earliest presentations, introducing **DEIP as a decentralized research platform**. He outlines how blockchain can solve trust, transparency, and incentive misalignment in academia.
+
+---
+
+### 🔗 [How Can Creators Get More with Web3? What Did DEIP CEO Say at Web Summit? Watch and Learn Now](https://www.youtube.com/watch?v=jw_mHKrL81w)  
+**Topic:** Web3 Opportunities for Creators  
+A highlight from Web Summit, where Alex shares key insights on how **Web3 shifts power back to creators**, enabling direct monetization, ownership, and community-driven growth.
+
+---
+
+### 🔗 [Web3 — What It Means for the Creator Economy. Interview with Alex Shkor](https://www.youtube.com/watch?v=OQgCiNhc_Rk)  
+**Topic:** Web3 & the New Creator Paradigm  
+Alex explains how **Web3 redefines value creation** — moving from platform-controlled ecosystems (Web2) to user-owned networks where creators capture true value.
+
+---
+
+### 🔗 [How the Web3 Renaissance is Unlocking the Value for Creators](https://www.youtube.com/watch?v=ezNB4EM1D8k)  
+**Topic:** The Web3 Renaissance  
+Alex frames Web3 as a **cultural and economic renaissance**, where decentralized tools allow creators to tokenize ideas, prove ownership, and earn fair rewards — without intermediaries.
+
+---
+
+### 🔗 [RSconf2018. Front-end for a Blockchain Project: Decentralized Research Platform](https://www.youtube.com/watch?v=oyjsUbv97yw)  
+**Topic:** Building Frontends for Blockchain (in Russian)  
+A technical talk on designing the **frontend architecture** for DEIP. Alex shares challenges and best practices for building intuitive user interfaces for decentralized applications.
+
+---
+
+### 🔗 [How to Build a New Digital Belarus on Blockchain. Alex Shkor, Founder & CEO of DEIP](https://www.youtube.com/watch?v=v3-GRvXOXPo)  
+**Topic:** Blockchain for National Digital Transformation (in Russian)  
+Alex presents a vision for **using blockchain to modernize Belarus** — from education and research to public services — creating a transparent, innovation-driven digital nation.
+
+---
+
+### 🔗 [Which Technologies Will Unlock Human Capital? Alex Shkor at Digital Belarus Vision Conference](https://www.youtube.com/watch?v=L3FElzWwY3Y)  
+**Topic:** Unlocking Human Potential with Tech (in Russian)  
+At the Digital Belarus Vision conference, Alex explores how **blockchain, AI, and decentralized protocols** can unlock human creativity, innovation, and intellectual capital on a global scale.
 
 ---
 
