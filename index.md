@@ -6,11 +6,11 @@
 
 ## **Professional Summary**
 
-Visionary technologist and full-stack developer with over 15 years of experience building scalable, decentralized, and AI-powered systems. As a CEO, Co-Founder, and Technology Architect, Alex has led the development of more than 50 innovative technologies at the intersection of **blockchain, artificial intelligence, and full-stack web development**. He combines deep expertise in backend architecture (CQRS, Event Sourcing, Microservices) with modern frontend frameworks to deliver robust, user-centric applications across Web2 and Web3.
+Seasoned technology leader, software engineer, and entrepreneur with over 15 years of experience at the forefront of **distributed systems, blockchain, and AI infrastructure**. As a **CEO, CTO, and Co-Founder** of deep-tech ventures including **Collective Intelligence Labs**, **DEIP**, and **Casimir**, I have led the creation of more than 50 innovative technologies — from **ZKML frameworks** and **omnichain smart contracts** to **decentralized assessment protocols**.
 
-A recognized leader in **ZKML (Zero-Knowledge Machine Learning), decentralized assessment systems, and omnichain smart contracts**, Alex is driving the evolution of impact-driven venture capital through Collective Intelligence Labs. His full-stack proficiency enables end-to-end ownership of product development—from database design and API architecture to responsive UIs and DevOps deployment.
+My career bridges hands-on software engineering with strategic product and company leadership. I began as a developer, evolved into architecting large-scale systems using **CQRS, Event Sourcing, and DDD**, and now lead teams building the foundational infrastructure for Web3 and decentralized intelligence.
 
----
+I’m driven by a mission to enable **trustless, transparent, and intelligent decision-making** — merging advanced cryptography, economic modeling, and scalable software to accelerate the transition from Web2 to Web3.
 
 ## **Core Competencies**
 
