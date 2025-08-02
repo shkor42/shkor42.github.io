@@ -1,3 +1,6 @@
+
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.wcwejOYks-NnW1Vwn-TDpAHaHq%3Fpid%3DApi&f=1&ipt=766f231f12bfbdadd43677edd55ae3f95d97501b080b36842a30e844d5920c26&ipo=images)
+
 # **Alex Shkor**  
 📍 Lisbon, Portugal | 🌐 [shkor.com](https://shkor.com) | ✉️ [alex@shkor.com](mailto:alex@shkor.com)  
 📱 LinkedIn: [linkedin.com/in/alexshkor](https://www.linkedin.com/in/alexshkor) | 🐙 GitHub: [github.com/alexshkor](https://github.com/alexshkor)
