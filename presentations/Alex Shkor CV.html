@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alex Shkor - Professional CV</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 30px;
+            font-size: 12pt;
+            line-height: 1.6;
+            color: #333;
+            background: #fff;
+            max-width: 210mm;
+            margin: 0 auto;
+            position: relative;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #0366d6;
+        }
+        .profile-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #0366d6;
+            margin-right: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .contact-info {
+            flex: 1;
+        }
+        h1 {
+            color: #111;
+            margin: 0 0 5px 0;
+            font-size: 28px;
+            font-weight: 700;
+        }
+        .title {
+            color: #0366d6;
+            font-weight: 600;
+            margin: 0 0 10px 0;
+            font-size: 16px;
+        }
+        .location {
+            color: #555;
+            margin: 0 0 5px 0;
+            font-size: 14px;
+        }
+        .links {
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        .links a {
+            color: #0366d6;
+            text-decoration: none;
+            margin-right: 15px;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+        hr {
+            border: none;
+            border-bottom: 1px solid #eee;
+            margin: 25px 0;
+        }
+        h2 {
+            color: #0366d6;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 8px;
+            margin: 25px 0 15px 0;
+            font-size: 20px;
+            font-weight: 600;
+        }
+        h3 {
+            color: #111;
+            margin: 15px 0 5px 0;
+            font-size: 16px;
+            font-weight: 600;
+        }
+        .company {
+            font-style: italic;
+            color: #555;
+            margin: 0 0 5px 0;
+            font-size: 14px;
+        }
+        .date {
+            color: #777;
+            margin: 0 0 10px 0;
+            font-size: 13px;
+        }
+        ul {
+            list-style-type: disc;
+            margin: 10px 0 10px 20px;
+            padding-left: 5px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .achievement {
+            font-weight: 500;
+            color: #111;
+            margin: 8px 0;
+            font-style: italic;
+        }
+        blockquote {
+            border-left: 3px solid #0366d6;
+            margin: 15px 0;
+            padding: 10px 20px;
+            background-color: #f8f9fa;
+            font-style: italic;
+        }
+        .skills-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+        }
+        .skill-category {
+            margin-bottom: 10px;
+        }
+        .skill-title {
+            font-weight: 600;
+            color: #111;
+            margin-bottom: 5px;
+        }
+        .interests {
+            display: inline-block;
+            background-color: #f0f6fc;
+            color: #0366d6;
+            padding: 3px 8px;
+            border-radius: 12px;
+            margin-right: 8px;
+            margin-bottom: 8px;
+            font-size: 13px;
+        }
+        .footer-quote {
+            text-align: right;
+            font-style: italic;
+            color: #555;
+            margin-top: 30px;
+            padding-top: 15px;
+            border-top: 1px dashed #ddd;
+        }
+        @media print {
+            body {
+                padding: 15mm;
+                font-size: 11pt;
+            }
+            .profile-img {
+                width: 100px;
+                height: 100px;
+            }
+            h1 {
+                font-size: 24px;
+            }
+            h2 {
+                font-size: 18px;
+            }
+            h3 {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.wcwejOYks-NnW1Vwn-TDpAHaHq%3Fpid%3DApi&f=1&ipt=766f231f12bfbdadd43677edd55ae3f95d97501b080b36842a30e844d5920c26&ipo=images" alt="Alex Shkor" class="profile-img">
+        <div class="contact-info">
+            <h1>Alex Shkor</h1>
+            <div class="title">Technology Leader & Entrepreneur</div>
+            <div class="location">📍 Lisbon, Portugal / Minsk, Belarus</div>
+            <div class="links">
+                <a href="https://shkor.com">shkor.com</a>
+                <a href="mailto:alex@shkor.com">alex@shkor.com</a><br>
+                <a href="https://www.linkedin.com/in/alexshkor">linkedin.com/in/alexshkor</a>
+                <a href="https://github.com/alexshkor">github.com/alexshkor</a>
+            </div>
+        </div>
+    </div>
+
+    <h2>Professional Summary</h2>
+    <p>Seasoned technology leader, software engineer, and entrepreneur with over 15 years of experience at the forefront of <strong>distributed systems, blockchain, and AI infrastructure</strong>. As a <strong>CEO, CTO, and Co-Founder</strong> of deep-tech ventures including <strong>Collective Intelligence Labs</strong>, <strong>DEIP</strong>, and <strong>Casimir</strong>, I have led the creation of more than 50 innovative technologies — from <strong>ZKML frameworks</strong> and <strong>omnichain smart contracts</strong> to <strong>decentralized assessment protocols</strong>.</p>
+    <p>My career bridges hands-on software engineering with strategic product and company leadership. I began as a developer, evolved into architecting large-scale systems using <strong>CQRS, Event Sourcing, and DDD</strong>, and now lead teams building the foundational infrastructure for Web3 and decentralized intelligence.</p>
+    <p>I'm driven by a mission to enable <strong>trustless, transparent, and intelligent decision-making</strong> — merging advanced cryptography, economic modeling, and scalable software to accelerate the transition from Web2 to Web3.</p>
+
+    <h2>Core Competencies</h2>
+    <div class="skills-container">
+        <div class="skill-category">
+            <div class="skill-title">Technical Expertise</div>
+            <ul>
+                <li>Distributed Systems Architecture</li>
+                <li>Blockchain & Smart Contracts (Solidity, SnarkyJS)</li>
+                <li>Web3 Infrastructure & Omnichain Protocols</li>
+                <li>AI & ZKML Frameworks</li>
+                <li>CQRS, Event Sourcing, DDD</li>
+                <li>TypeScript, Node.js, React</li>
+            </ul>
+        </div>
+        <div class="skill-category">
+            <div class="skill-title">Leadership & Strategy</div>
+            <ul>
+                <li>CEO & CTO Leadership</li>
+                <li>Company Building & Scaling</li>
+                <li>Fundraising & Investor Relations</li>
+                <li>Product Strategy & Roadmapping</li>
+                <li>Team Building & Talent Development</li>
+                <li>Technical Vision & Innovation</li>
+            </ul>
+        </div>
+        <div class="skill-category">
+            <div class="skill-title">Domain Expertise</div>
+            <ul>
+                <li>Creator Economy Protocols</li>
+                <li>Decentralized Science (DeSci)</li>
+                <li>NFTs & F-NFTs (Fractional NFTs)</li>
+                <li>Tokenization of Intangible Assets</li>
+                <li>Decentralized Governance</li>
+                <li>Metaprotocols & Cross-chain Solutions</li>
+            </ul>
+        </div>
+    </div>
+
+    <h2>Professional Experience</h2>
+    
+    <h3>CEO & Co-Founder | Technology Architect</h3>
+    <div class="company">Collective Intelligence Labs — Remote / Lisbon, Portugal</div>
+    <div class="date">Feb 2021 – Present</div>
+    <ul>
+        <li>Drive overall strategy and technical direction for a cutting-edge Web3 venture focused on decentralized AI infrastructure</li>
+        <li>Lead cross-functional team of engineers, researchers, and designers to develop innovative blockchain solutions</li>
+        <li>Architect omnichain meta-protocol enabling secure communication across heterogeneous blockchains</li>
+        <li>Develop ZKML frameworks for privacy-preserving machine learning on blockchain</li>
+        <li>Establish strategic partnerships with leading Web3 projects and research institutions</li>
+        <li>Secure funding and manage financial planning for R&D initiatives</li>
+    </ul>
+    <div class="achievement">Key Achievements: Developed omnichain meta-protocol, launched ZKML framework, established research partnerships</div>
+
+    <hr>
+    
+    <h3>Co-Founder & Web3 Architect</h3>
+    <div class="company">Casimir — Estonia / Germany / Remote</div>
+    <div class="date">Oct 2021 – Nov 2022</div>
+    <ul>
+        <li>Co-founded Web3 infrastructure company focused on NFT marketplaces and DAO platforms</li>
+        <li>Designed and implemented no-code platform for blockchain application development</li>
+        <li>Architected smart contract systems for NFT minting, trading, and governance</li>
+        <li>Integrated IPFS for decentralized storage of digital assets</li>
+        <li>Built developer tools and SDKs to accelerate ecosystem growth</li>
+    </ul>
+    <div class="achievement">Key Achievements: Launched successful NFT marketplace, built developer community, created open-source tooling</div>
+
+    <hr>
+    
+    <h3>Co-Founder & CEO</h3>
+    <div class="company">DEIP - Creator Economy Protocol — Estonia, SF Bay Area, Germany, Poland</div>
+    <div class="date">Jan 2018 – Nov 2022</div>
+    <ul>
+        <li>Spearheaded development of blockchain protocol for tokenizing intangible assets like research, patents, and creative works</li>
+        <li>Led international team across engineering, research, and business development functions</li>
+        <li>Developed Fractional NFT (F-NFT) standard for fractional ownership of intellectual property</li>
+        <li>Created decentralized assessment protocol for evaluating research impact and innovation</li>
+        <li>Established partnerships with universities and research institutions for pilot implementations</li>
+        <li>Presented DEIP vision at major conferences including Web Summit and Future Blockchain Summit</li>
+    </ul>
+    <div class="achievement">Key Achievements: Developed F-NFT standard, launched decentralized research platform, presented at 10+ international conferences</div>
+
+    <hr>
+    
+    <h3>Thinktank Member</h3>
+    <div class="company">Blockchain for Science (BFS) — Berlin, Germany</div>
+    <div class="date">Nov 2017 – Jan 2022</div>
+    <ul>
+        <li>Advised on blockchain integration for scientific publishing, peer review, and IP management</li>
+        <li>Prototyped a full-stack dApp for transparent research funding using React, Ethereum, and IPFS</li>
+        <li>Contributed to open-source tools for verifiable academic credentials and citation tracking</li>
+        <li>Explored algorithmic funding models for scientific research</li>
+    </ul>
+
+    <hr>
+    
+    <h3>Co-Founder</h3>
+    <div class="company">Vedai: Education Crowdinvesting Platform — Lisbon, Portugal</div>
+    <div class="date">Jan 2021 – Mar 2023</div>
+    <ul>
+        <li>Co-founded education-focused investment platform connecting investors with startups</li>
+        <li>Developed platform for crowdinvesting in educational ventures</li>
+        <li>Implemented compliance frameworks for financial regulations</li>
+        <li>Built partnerships with educational institutions and accelerator programs</li>
+    </ul>
+
+    <hr>
+    
+    <h3>CTO | Head of R&D</h3>
+    <div class="company">Paralect — Minsk, Belarus</div>
+    <div class="date">2011 – Aug 2017</div>
+    <ul>
+        <li>Led R&D and product development for enterprise clients across healthcare, logistics, and fintech sectors</li>
+        <li>Managed team of engineers delivering SaaS solutions for enterprise clients</li>
+        <li>Architected systems using CQRS, Event Sourcing, and Domain-Driven Design patterns</li>
+        <li>Developed microservices architecture on AWS cloud infrastructure</li>
+        <li>Implemented CI/CD pipelines and automated testing frameworks</li>
+    </ul>
+    <div class="achievement">Key Achievements: Delivered 50+ enterprise projects, maintained 95% client retention rate, improved delivery speed by 50%</div>
+
+    <hr>
+    
+    <h3>Software Architect</h3>
+    <div class="company">Suvoda — Remote</div>
+    <div class="date">Nov 2013 – Nov 2015</div>
+    <ul>
+        <li>Designed and developed HIPAA-compliant eConsent platform for clinical trial organizations</li>
+        <li>Architected secure document management system with audit trails</li>
+        <li>Implemented role-based access control and data encryption</li>
+        <li>Optimized performance for handling large volumes of medical documentation</li>
+    </ul>
+
+    <hr>
+    
+    <h3>Software Developer</h3>
+    <div class="company">Itransition Group — Minsk, Belarus</div>
+    <div class="date">Nov 2010 – Dec 2011</div>
+    <ul>
+        <li>Developed enterprise web applications for clients in finance and logistics sectors</li>
+        <li>Implemented database design and optimization for high-performance applications</li>
+        <li>Collaborated with cross-functional teams to deliver software solutions</li>
+        <li>Participated in full software development lifecycle</li>
+    </ul>
+
+    <h2>Education</h2>
+    <p><strong>Bachelor of Science in Computer Science</strong><br>
+    Belarusian State University of Informatics and Radioelectronics<br>
+    2008 – 2013</p>
+
+    <h2>Recommendations</h2>
+    <blockquote>
+        <p>"Alex is a truly inspiring leader… fascinated by his capability to learn incredibly fast and communicate his reality in comprehensive models."<br>
+        — Lukas Holter, AI Educator & Coach</p>
+    </blockquote>
+    <blockquote>
+        <p>"Beneath Alex's quiet demeanor burns a fierce passion for improving humanity via inspired software architecture."<br>
+        — Brian D. Litman, Technology Mentor</p>
+    </blockquote>
+
+    <h2>Conferences & Speaking Engagements</h2>
+    <ul>
+        <li>A Metaprotocol for Blockchain Interoperability? w/ Alex Shkor of Collective Intelligence Labs</li>
+        <li>Alex Shkor (deip.world) - Blockchain For Funding Science - #BFSCON - Blockchain for Science</li>
+        <li>Crypto-economy for Science: Automated Grants Distribution Models | Alex Shkor</li>
+        <li>Alex Shkor, CEO of DEIP, F-NFTs & Fractionalizing Real World Assets | Blockchain Interviews</li>
+        <li>Future of Science, Alex Shkor at the Future Blockchain Summit in Dubai</li>
+        <li>Empowering Web3 with Omni-Chain Meta Protocol with Alex Shkor @ CIL | Web2+1 with VC</li>
+        <li>Vivi Lin Interviews ALEX SHKOR, Founder of DEIP Creator Economy Protocol (WEB3 DEMYSTIFIED SERIES)</li>
+        <li>Omnichain Contracts: Validating Blockchain States and Deploying Smart Contracts Innovatively</li>
+        <li>Building the Pipes for Creator Rights in Web3 w/ DEIP Co-creator Alex Shkor | Next Creators Podcast</li>
+        <li>Proof of Concept with Ethereum. Solidity Workshop | Alex Shkor (live stream)</li>
+    </ul>
+
+    <h2>Languages</h2>
+    <ul>
+        <li>English – Advanced (Full Professional Proficiency)</li>
+        <li>Russian – Native Speaker</li>
+    </ul>
+
+    <h2>Interests</h2>
+    <div>
+        <span class="interests">Science & Technology</span>
+        <span class="interests">Education Innovation</span>
+        <span class="interests">Decentralized AI</span>
+        <span class="interests">Open Source</span>
+        <span class="interests">Impact Investing</span>
+        <span class="interests">Blockchain Research</span>
+    </div>
+
+    <div class="footer-quote">
+        <p>"My mission is to build full-stack, intelligent systems that empower decentralized decision-making and accelerate the transition from Web2 to Web3."<br>
+        — Alex Shkor</p>
+    </div>
+</body>
+</html>
